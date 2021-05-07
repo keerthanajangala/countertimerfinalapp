@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/countertimerfinalapp/static/css/main.bc16a259.chunk.css",
+    "main.js": "/countertimerfinalapp/static/js/main.9bbec7e7.chunk.js",
+    "main.js.map": "/countertimerfinalapp/static/js/main.9bbec7e7.chunk.js.map",
+    "runtime-main.js": "/countertimerfinalapp/static/js/runtime-main.35e36c19.js",
+    "runtime-main.js.map": "/countertimerfinalapp/static/js/runtime-main.35e36c19.js.map",
+    "static/css/2.9794dc74.chunk.css": "/countertimerfinalapp/static/css/2.9794dc74.chunk.css",
+    "static/js/2.adc2e0de.chunk.js": "/countertimerfinalapp/static/js/2.adc2e0de.chunk.js",
+    "static/js/2.adc2e0de.chunk.js.map": "/countertimerfinalapp/static/js/2.adc2e0de.chunk.js.map",
+    "static/js/3.9ad395a6.chunk.js": "/countertimerfinalapp/static/js/3.9ad395a6.chunk.js",
+    "static/js/3.9ad395a6.chunk.js.map": "/countertimerfinalapp/static/js/3.9ad395a6.chunk.js.map",
+    "index.html": "/countertimerfinalapp/index.html",
+    "static/css/2.9794dc74.chunk.css.map": "/countertimerfinalapp/static/css/2.9794dc74.chunk.css.map",
+    "static/css/main.bc16a259.chunk.css.map": "/countertimerfinalapp/static/css/main.bc16a259.chunk.css.map",
+    "static/js/2.adc2e0de.chunk.js.LICENSE.txt": "/countertimerfinalapp/static/js/2.adc2e0de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35e36c19.js",
+    "static/css/2.9794dc74.chunk.css",
+    "static/js/2.adc2e0de.chunk.js",
+    "static/css/main.bc16a259.chunk.css",
+    "static/js/main.9bbec7e7.chunk.js"
+  ]
+}
